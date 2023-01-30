@@ -43,9 +43,9 @@
 
   
   
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitment@0.0.3/style/default.min.css">
   
   
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.4.0/dist/gitalk.min.css">
   
 <meta name="generator" content="Hexo 6.3.0"></head>
 
@@ -141,16 +141,6 @@
         </li>
         
         
-        <li class="menu-item menu-item-books">
-          <a href="/books">
-            
-            <i class="icon icon-book-fill"></i>
-            
-            <span class="menu-title">书单</span>
-          </a>
-        </li>
-        
-        
         <li class="menu-item menu-item-links">
           <a href="/links">
             
@@ -172,17 +162,6 @@
         
       </ul>
       
-	
-    <ul class="social-links">
-    	
-        <li><a href="https://github.com/cofess" target="_blank" title="Lofter" ><i class="icon icon-lofter"></i></a></li>
-        
-        <li><a href="http://weibo.com/cofess" target="_blank" title="Bilibili" ><i class="icon icon-bilibili"></i></a></li>
-        
-        <li><a href="https://twitter.com/MsAcetone" target="_blank" title="Twitter" ><i class="icon icon-twitter"></i></a></li>
-        
-    </ul>
-
     </nav>
   </div>
 </header>
@@ -358,7 +337,7 @@
       
     </div>
     <div class="article-footer">
-      <blockquote class="mt-2x">
+      <!-- <blockquote class="mt-2x">
   <ul class="post-copyright list-unstyled">
     
     <li class="post-copyright-link hidden-xs">
@@ -388,7 +367,7 @@
     </figure>
   </div>
 </div>
-
+ -->
 
     </div>
   </article>
@@ -396,7 +375,7 @@
     
   <section id="comments">
   	
-           
+
     
   </section>
 
@@ -437,17 +416,6 @@
 
   <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
 	
-	
-    <ul class="social-links">
-    	
-        <li><a href="https://github.com/cofess" target="_blank" title="Lofter" ><i class="icon icon-lofter"></i></a></li>
-        
-        <li><a href="http://weibo.com/cofess" target="_blank" title="Bilibili" ><i class="icon icon-bilibili"></i></a></li>
-        
-        <li><a href="https://twitter.com/MsAcetone" target="_blank" title="Twitter" ><i class="icon icon-twitter"></i></a></li>
-        
-    </ul>
-
     <div class="copyright">
     	
         <div class="publishby">
@@ -497,24 +465,24 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
    
     
-  <!-- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"> -->
-  <script src="//cdn.jsdelivr.net/npm/gitalk@1.6.2/dist/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/blueimp-md5@2.10.0/js/md5.min.js"></script>
-  <script type="text/javascript">
-  var gitalk = new Gitalk({
-    clientID: '',
-    clientSecret: '',
-    repo: '',
-    owner: '',
-    admin: [''],
-    id: md5(location.pathname),
-    distractionFreeMode: true,
-    language: 'zh-CN',
-    enableHotKey: 'true'
-  })
-  gitalk.render('comments')
-  </script>
-      
+<script src="//cdn.jsdelivr.net/npm/gitment@0.0.3/dist/gitment.browser.min.js"></script>
+<script>
+var gitment = new Gitment({
+  // id默认为当前页面url，如果url后带参数或锚点，gitment要重新初始化
+  // https://github.com/imsun/gitment/issues/55
+  // 解决方案：id:window.location.pathname,或者将id设置为当前页面标题
+  id: '对于人们的感性的一点思考', 
+  owner: '', // 可以是你的GitHub用户名，也可以是github id
+  repo: '',
+  oauth: {
+    client_id: '',
+    client_secret: '',
+  }
+})
+gitment.render('comments')
+</script>
+
+
 
 
 
