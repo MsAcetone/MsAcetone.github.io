@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/books/index.html</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/categories/index.html</loc>
     
     <lastmod>2023-01-29</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/categories/index.html</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/books/index.html</loc>
     
     <lastmod>2023-01-29</lastmod>
     
@@ -144,14 +144,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E4%BA%BA%E7%B1%BB%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E4%BA%BA%E7%B1%BB%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
