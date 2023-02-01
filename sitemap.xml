@@ -128,6 +128,13 @@
 
   
   <url>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E7%88%B1%E6%83%85/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E4%BA%BA%E7%B1%BB%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-02-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,13 +143,6 @@
   
   <url>
     <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E6%95%91%E8%B5%8E/</loc>
-    <lastmod>2023-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E7%88%B1%E6%83%85/</loc>
     <lastmod>2023-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
