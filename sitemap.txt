@@ -1,3 +1,4 @@
+https://github.com/MsAcetone/MsAcetone.github.io.git/2023/05/05/%E6%88%91%E4%B8%BA%E5%A4%8F%E8%99%AB/
 https://github.com/MsAcetone/MsAcetone.github.io.git/about/index.html
 https://github.com/MsAcetone/MsAcetone.github.io.git/2023/01/21/%E5%85%B3%E4%BA%8E%E5%99%A8%E5%AE%98%E8%B4%A9%E5%8D%96%E7%9A%84%E6%A2%A6/
 https://github.com/MsAcetone/MsAcetone.github.io.git/2023/03/28/%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E8%B0%8B%E6%9D%80%E7%9A%84%E6%A2%A6/
@@ -26,7 +27,6 @@ https://github.com/MsAcetone/MsAcetone.github.io.git/2019/10/06/%E5%85%B3%E4%BA%
 https://github.com/MsAcetone/MsAcetone.github.io.git/2022/10/04/%E6%88%91%E5%BF%8C%E6%83%AE%E7%9D%80%E7%82%BD%E7%83%AD%E7%9A%84%E4%BA%8B%E7%89%A9/
 https://github.com/MsAcetone/MsAcetone.github.io.git/links/index.html
 https://github.com/MsAcetone/MsAcetone.github.io.git/pictures/index.html
-https://github.com/MsAcetone/MsAcetone.github.io.git/gallery/index.html
 https://github.com/MsAcetone/MsAcetone.github.io.git/repository/index.html
 https://github.com/MsAcetone/MsAcetone.github.io.git/tags/index.html
 https://github.com/MsAcetone/MsAcetone.github.io.git/categories/index.html
