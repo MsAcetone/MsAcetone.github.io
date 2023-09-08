@@ -499,11 +499,4 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/categories/%E6%8A%92%E6%83%85/</loc>
-    <lastmod>2023-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 </urlset>
