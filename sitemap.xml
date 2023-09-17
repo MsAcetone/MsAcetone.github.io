@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/about/index.html</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/2023/09/15/%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%8D%E8%A7%A3%E5%86%B3%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2023-09-17</lastmod>
     
@@ -11,18 +11,9 @@
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/2023/09/15/%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%8D%E8%A7%A3%E5%86%B3%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98/</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/about/index.html</loc>
     
-    <lastmod>2023-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/2023/09/15/%E6%B5%81%E6%B0%B4%E8%B4%A6%EF%BC%9A%E5%85%B3%E4%BA%8E%E6%97%A5%E8%AE%B0/</loc>
-    
-    <lastmod>2023-09-15</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -490,7 +481,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6/</loc>
+    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/tags/%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93/</loc>
     <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -514,13 +505,6 @@
   
   <url>
     <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/categories/%E8%84%91%E6%B4%9E/</loc>
-    <lastmod>2023-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/MsAcetone/MsAcetone.github.io.git/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
